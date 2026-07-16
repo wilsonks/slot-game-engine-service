@@ -1,0 +1,5 @@
+one-of-three:
+  options:
+    - 10
+    - 25
+    - 50
