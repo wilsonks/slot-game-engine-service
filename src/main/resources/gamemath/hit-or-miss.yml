@@ -1,0 +1,4 @@
+hit-or-miss:
+  hit-probability: 0.45
+  base-win: 10
+  multiplier: 3

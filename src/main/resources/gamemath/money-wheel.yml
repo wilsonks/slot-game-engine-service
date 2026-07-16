@@ -1,0 +1,22 @@
+money-wheel:
+  segments:
+    - weight: 20
+      win-amount: 2
+    - weight: 15
+      win-amount: 5
+    - weight: 12
+      win-amount: 10
+    - weight: 10
+      win-amount: 15
+    - weight: 8
+      win-amount: 20
+    - weight: 6
+      win-amount: 25
+    - weight: 5
+      win-amount: 30
+    - weight: 4
+      win-amount: 50
+    - weight: 3
+      win-amount: 75
+    - weight: 2
+      win-amount: 100
