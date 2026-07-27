@@ -27,18 +27,18 @@ slot-api-gateway
 
 ### Prerequisites
 - Java 21+
-- Gradle 8.8 (wrapper included)
+- Maven 3.9+
 
 ### Run locally
 ```bash
-./gradlew bootRun
+mvn spring-boot:run
 ```
 Service starts on `http://localhost:8084`.
 
 ### Build & test
 ```bash
-./gradlew build          # compiles, tests, packages
-./gradlew test           # tests only (33 tests, ~14s)
+mvn clean install        # compiles, tests, packages
+mvn test                 # tests only (33 tests, ~14s)
 ```
 
 ### Docker
